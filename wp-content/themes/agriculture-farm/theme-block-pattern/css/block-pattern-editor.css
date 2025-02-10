@@ -1,0 +1,38 @@
+.banner-section h1,.service-section h3, .service-section h2 {
+    font-family: 'Oswald', sans-serif;
+}
+.banner-section img, .service-section .service-boxes img {
+    width: 100%;
+}
+.banner-section-btn .wp-block-button__link:hover {
+    background: #ffffff !important;
+    color: #50d430 !important;
+}
+.service-box {
+    padding: 30px;
+    box-shadow: 0 0 5px 1px #afd5a6;
+    border-radius: 30px;
+}
+.service-box:hover {
+    background-color: #50d430;
+}
+.service-box:hover h3,
+.service-box:hover .service-box-para,
+.service-box:hover .wp-block-button__link {
+    color: #fff !important;
+}
+.service-box:hover .wp-block-button__link {
+    background-color: #50d430 !important;
+}
+.service-box .service-box-para::before{
+    content: '';
+    width: 60px;
+    height: 2px;
+    background: #8e8e8e;
+    position: absolute;
+    left: 33%;
+    top: 0; 
+    opacity: 1;
+    display: block;
+    clear: both;
+}

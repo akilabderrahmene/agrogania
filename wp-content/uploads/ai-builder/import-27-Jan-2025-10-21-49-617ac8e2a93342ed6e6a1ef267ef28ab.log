@@ -1,0 +1,19 @@
+
+{"post_title":"Response XML","post_mime_type":"application\/xml","post_content":"","post_status":"inherit"}
+"C:\\xampp\\htdocs\/wp-content\/uploads\/2025\/01\/wxr.xml"
+10
+{"post_title":"Response XML","post_mime_type":"application\/xml","post_content":"","post_status":"inherit"}
+"C:\\xampp\\htdocs\/wp-content\/uploads\/2025\/01\/wxr.xml"
+367
+There was an error on website: Uncaught Error
+ParseError: syntax error, unexpected token "new" in C:\xampp\htdocs\wp-content\plugins\github\github.php:97
+Stack trace:
+#0 C:\xampp\htdocs\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('github/github.p...')
+#1 C:\xampp\htdocs\wp-admin\plugins.php(60): activate_plugin('github/github.p...', 'http://localhos...', false)
+#2 {main}
+There was an error on website: Uncaught Error
+ParseError: syntax error, unexpected token "new" in C:\xampp\htdocs\wp-content\plugins\github\github.php:97
+Stack trace:
+#0 C:\xampp\htdocs\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('github/github.p...')
+#1 C:\xampp\htdocs\wp-admin\plugins.php(60): activate_plugin('github/github.p...', 'http://localhos...', false)
+#2 {main}
